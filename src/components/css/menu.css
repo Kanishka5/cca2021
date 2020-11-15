@@ -1,0 +1,12 @@
+.customStyle{
+    font-size:20px;
+    transform: rotate(90deg);
+}
+
+.positionFixing{
+    position: fixed;
+}
+
+#menu_icon>svg:hover{
+    color: #49b5fc;
+}

@@ -1,0 +1,21 @@
+@media screen and (max-width: 480px)
+{
+    .MemberMembercard {
+        /* width: 46vw;
+        margin-left: 24vw; */
+        width: 66vw;
+        margin-left: 16vw;
+        height: 65%;
+    }
+    .membercard figure img{
+        right:unset;
+        left:auto;
+    }
+    .membercard figcaption{
+        height: 237px;
+    }
+}
+.membercard figure h1{
+    font-size: 1.4rem;
+}
+
